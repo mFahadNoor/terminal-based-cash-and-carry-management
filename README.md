@@ -19,15 +19,15 @@
 ---
 
 ### OOP Concepts:
-Your assignment will be evaluated based on how well you apply Object-Oriented Programming (OOP) concepts such as **Inheritance**, **Polymorphism**, **Composition**, **Aggregation**, and **Encapsulation**. It will also be assessed based on your overall understanding of the assignment and how well you implement the required functionalities.
+Object-Oriented Programming (OOP) concepts such as **Inheritance**, **Polymorphism**, **Composition**, **Aggregation**, and **Encapsulation** were used
 
 ---
 
 ### Menu-Driven System:
-The system will be menu-driven. Upon running the program, there will be two options at the start:
+The system is menu-driven. Upon running the program, there are two options at the start:
 
 - **Press 1** to continue as Manager
 - **Press 2** to continue as Store Salesman
 - **Press 3** to exit
 
-After selecting either option 1 or 2, a further menu will appear to perform the different functionalities for Manager or Salesman, as outlined above.
+After selecting either option 1 or 2, a further menu appears to perform the different functionalities for Manager or Salesman, as outlined above.
